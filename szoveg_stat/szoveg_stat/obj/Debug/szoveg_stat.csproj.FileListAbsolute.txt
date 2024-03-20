@@ -1,0 +1,7 @@
+C:\Users\1tc-sipnor\Documents\GitHub\szoveg_stat\szoveg_stat\szoveg_stat\bin\Debug\szoveg_stat.exe.config
+C:\Users\1tc-sipnor\Documents\GitHub\szoveg_stat\szoveg_stat\szoveg_stat\bin\Debug\szoveg_stat.exe
+C:\Users\1tc-sipnor\Documents\GitHub\szoveg_stat\szoveg_stat\szoveg_stat\bin\Debug\szoveg_stat.pdb
+C:\Users\1tc-sipnor\Documents\GitHub\szoveg_stat\szoveg_stat\szoveg_stat\obj\Debug\szoveg_stat.csproj.AssemblyReference.cache
+C:\Users\1tc-sipnor\Documents\GitHub\szoveg_stat\szoveg_stat\szoveg_stat\obj\Debug\szoveg_stat.csproj.CoreCompileInputs.cache
+C:\Users\1tc-sipnor\Documents\GitHub\szoveg_stat\szoveg_stat\szoveg_stat\obj\Debug\szoveg_stat.exe
+C:\Users\1tc-sipnor\Documents\GitHub\szoveg_stat\szoveg_stat\szoveg_stat\obj\Debug\szoveg_stat.pdb
