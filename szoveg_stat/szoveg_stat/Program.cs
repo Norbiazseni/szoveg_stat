@@ -20,9 +20,19 @@ namespace szoveg_stat
             }
             return db;
         }
-        static void Kiir(int a)
+        static string Visszafele(string s)
+        {
+            string szoveg = "";
+            for (int i = s.Length-1; i < 0; i--)
+            {
+                szoveg += s[i];
+            }
+            return szoveg;
+        }
+        static void Kiir(int a, string s)
         {
             Console.WriteLine($"{a} db szó van ebben a szövegben");
+            Console.WriteLine($"A szöveg visszafele: {s}");
         }
         static void Main(string[] args)
         {
@@ -30,7 +40,8 @@ namespace szoveg_stat
             string text = Console.ReadLine();
 
             int szo_db = Hany_szo(text);
-            Kiir(szo_db);
+            Visszafele(text);
+            Kiir(szo_db, text);
             Console.WriteLine("Nyomj egy billt");
             Console.ReadKey();
         }
